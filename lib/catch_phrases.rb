@@ -4,7 +4,6 @@ def mario(phrase)
 end
 
 def toadstool
-
   puts $status
 end
 def link
