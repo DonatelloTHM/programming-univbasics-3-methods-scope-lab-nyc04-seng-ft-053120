@@ -11,8 +11,9 @@ def link
   puts phrase
 end
 def all_phrases
+ name="It's-a me, Mario!"
   link
-  mario("It's-a me, Mario!")
+  mario(name)
   toadstool
 
 end
